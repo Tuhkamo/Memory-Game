@@ -1,0 +1,75 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+	text-align: center;
+	padding: 5px;
+}
+
+table {
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+  background-color: black;
+}
+
+td {
+  height: 40px;
+  width: 40px;
+	background-color: white;
+}
+
+button {
+	margin-top: 20px;
+	padding: 10px;
+}
+
+.tyhja {
+	background-color: gray;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.t1 {
+	background-image: url('kukka.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.t2 {
+	background-image: url('asia.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.t3 {
+	background-image: url('aarre.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.t4 {
+	background-image: url('Poop_Emoji.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.t5 {
+	background-image: url('kukka1.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.t6 {
+	background-image: url('XD_Face.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.t7 {
+	background-image: url('ruoho.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.t8 {
+	background-image: url('SD.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
